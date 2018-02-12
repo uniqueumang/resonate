@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Resonate.BusinessService.Interface\Resonate.BusinessService.Interface.csproj" />
-    <ProjectReference Include="..\Resonate.BusinessService\Resonate.BusinessService.csproj" />
+    <ProjectReference Include="..\Resonate.BusinessService\Resonate.MockBusinessService.csproj" />
   </ItemGroup>
 
   <ItemGroup>
